@@ -36,6 +36,10 @@ else if(bmi >= 40) {
 theOutput.innerHTML= "You are obese";
 }
 
+else if(theAnswer.innerHTML = "NaN"){
+    theAnswer.innerHTML = "Please enter a number"
+}
+
 }
 
 
